@@ -1,10 +1,12 @@
-# cinema-skills
+# cinema-skills: AI agent skills for filmmakers and video editors
 
-**Five agent skills for filmmakers, editors and video creators.** Drop them into your AI agent and get real production documents instead of generic advice: shot lists, scene breakdowns, color scripts, cut lists, export checklists.
+[![License: MIT](https://img.shields.io/github/license/Benitoow/cinema-skills)](LICENSE) [![Agent Skills](https://img.shields.io/badge/format-Agent%20Skills%20(SKILL.md)-f5a623)](https://agentskills.io) [![Claude Code plugin](https://img.shields.io/badge/Claude%20Code-plugin-blue)](#install)
+
+**Five agent skills for filmmakers, editors and video creators.** Drop them into your AI agent and get real production documents instead of generic advice: shot lists, scene breakdowns, color scripts, cut lists, export checklists. Works with Claude Code, Codex, Cursor, GitHub Copilot, Gemini CLI and any agent that reads `SKILL.md`.
 
 No framework. No dependencies. Just `SKILL.md` files.
 
-![demo](docs/demo.gif)
+![Demo: an AI agent loads the shot-list skill and builds a 9:16 shot list table (beat, size, action, lens, time) from a short scene](docs/demo.gif)
 
 ## What's inside
 
