@@ -1,0 +1,14 @@
+{
+  "name": "cinema-skills",
+  "description": "Agent skills for filmmakers and video editors.",
+  "owner": {
+    "name": "Benjamin Leleu"
+  },
+  "plugins": [
+    {
+      "name": "cinema-skills",
+      "source": "./",
+      "description": "Shot lists, scene breakdowns, color scripts, cut lists and export checklists."
+    }
+  ]
+}

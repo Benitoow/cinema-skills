@@ -1,0 +1,10 @@
+{
+  "name": "cinema-skills",
+  "description": "Agent skills for filmmakers and video editors: shot lists, scene breakdowns, color scripts, cut lists, export checklists.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Benjamin Leleu"
+  },
+  "license": "MIT",
+  "keywords": ["film", "video", "editing", "cinematography", "post-production", "skills"]
+}
